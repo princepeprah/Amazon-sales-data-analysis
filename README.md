@@ -2,7 +2,7 @@
 
 #### Project Description 
 
-Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/excel-dynamic-data-analysis_pivot_table)
+Project Link: [Repository](https://github.com/princepeprah/Amazon-sales-data-analysis/tree/main)
 ---
-![Completed Project Dashboard](sales-data-excel.PNG)
+![Completed Project Dashboard]()
 ---
