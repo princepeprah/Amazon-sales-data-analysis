@@ -4,5 +4,5 @@
 
 Project Link: [Repository](https://github.com/princepeprah/Amazon-sales-data-analysis/tree/main)
 ---
-![Completed Project Dashboard](Amazon sales data analytics.jpg)
+![Completed Project Dashboard](Amazon-sales-data-analytics.jpg)
 ---
